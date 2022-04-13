@@ -21,6 +21,12 @@ public class Test {
 		boolean status = true;
 		
 		char type = 'A'; // 2 byte
+		
+		// there are non primitive datatypes
+		String company = "Wipro"; // group of characters enclosed with double quotes
+		
+		//Array Class object .
+		
 	}
 
 }
